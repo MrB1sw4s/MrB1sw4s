@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrB1sw4s
 currently in top 1% at TryHackme
-<script src="https://tryhackme.com/badge/108008"></script>
+<img src="https://tryhackme.com/badge/108008">
 - I’m interested in ...
 Web Application Pentesting , reverse engineering , CTFs
 
