@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @MrB1sw4s
-
+currently in top 1% at TryHackme
+<script src="https://tryhackme.com/badge/108008"></script>
 - I’m interested in ...
-Web Application Pentesting , Bug Bounty , CTFs
+Web Application Pentesting , reverse engineering , CTFs
 
 <img src="https://media.giphy.com/media/Z543HuFdQAmkg/giphy.gif" width="510px">
 
