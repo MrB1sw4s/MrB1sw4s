@@ -1,4 +1,4 @@
-[align="center"![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Hack&color=%239315B7&lines=What's+up!+I'm+Soumyadip+Biswas)](https://git.io/typing-svg)
+[                   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Hack&color=%239315B7&lines=What's+up!+I'm+Soumyadip+Biswas)](https://git.io/typing-svg)
 <h3 align="center">A passionate Cybersecurity Enthusiast from India</h3>
 
 - I am a CTF player and at top 1% global ranking on TryHackMe.
