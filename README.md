@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Soumyadip Biswas</h1>
+<h1 align="center">What's Up! I'm Soumyadip Biswas</h1>
 <h3 align="center">A passionate Cybersecurity Enthusiast from India</h3>
 
 - I am a CTF player and at top 1% global ranking on TryHackMe.
