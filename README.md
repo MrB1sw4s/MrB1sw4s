@@ -5,7 +5,7 @@
 <a href="https://tryhackme.com/p/SamSepiol" target="blank"><img align="center" src="https://tryhackme-badges.s3.amazonaws.com/SamSepiol.png" alt="TryHackMe" height="60" width="230" /></a>
 - 🔭 I’m currently working on **Malware Analysis and Triage**
 
-- 🌱 I’m currently learning **Reverse Engineering, Malware Analysis, Binary Exploitation**
+- 🌱 I’m currently learning **Reverse Engineering, Malware Analysis, Binary Exploitation** 
 
 - 💬 Ask me about **0's and 1's**
 
