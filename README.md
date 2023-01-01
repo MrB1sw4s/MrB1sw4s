@@ -1,27 +1,25 @@
 <h1 align="center">What's Up! I'm Soumyadip Biswas</h1>
 <h3 align="center">A passionate Cybersecurity Enthusiast from India</h3>
+# 💫 About Me:
+I am a CTF player and at top 1% global ranking on TryHackMe.
+<img src="https://tryhackme-badges.s3.amazonaws.com/SamSepiol.png" alt="TryHackMe">
+<br><br>- 🔭 I’m currently working on **Malware Analysis and Triage**
+<br><br>- 🌱 I’m currently learning **Reverse Engineering, Malware Analysis, Binary Exploitation** 
+<br><br>- 💬 Ask me about **0's and 1's**
+<br><br>- 📫 How to reach me **soumyadip022@gmail.com**
+<br><br>- ⚡ Fun fact **I know assembly**
 
-- I am a CTF player and at top 1% global ranking on TryHackMe. 
-[![Tryhackme Profile Badge](https://tryhackme-badges.s3.amazonaws.com/SamSepiol.png)]
 
-- 🔭 I’m currently working on **Malware Analysis and Triage**
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/biswas0xb) 
 
-- 🌱 I’m currently learning **Reverse Engineering, Malware Analysis, Binary Exploitation** 
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
-- 💬 Ask me about **0's and 1's**
 
-- 📫 How to reach me **soumyadip022@gmail.com**
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-- ⚡ Fun fact **I know assembly**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/biswas0xb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="biswas0xb" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/soumyadip022" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="soumyadip022" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrb1sw4s&show_icons=true&locale=en&layout=compact" alt="mrb1sw4s" /></p>
+---
+[![](https://visitcount.itsvg.in/api?id=MrB1sw4s&icon=0&color=0)](https://visitcount.itsvg.in)
 
