@@ -2,6 +2,8 @@
 <h3 align="center">A passionate Cybersecurity Enthusiast from India</h3>
 
 - I am a CTF player and at top 1% global ranking on TryHackMe.
+- 
+[![Tryhackme Profile Badge](https://tryhackme-badges.s3.amazonaws.com/SamSepiol.png)](https://tryhackme.com/badge/108008)
 <a href="https://tryhackme.com/p/SamSepiol" target="blank"><img align="center" src="https://tryhackme-badges.s3.amazonaws.com/SamSepiol.png" alt="TryHackMe" height="60" width="230" /></a>
 - 🔭 I’m currently working on **Malware Analysis and Triage**
 
