@@ -1,8 +1,6 @@
 <h1 align="center">What's Up! I'm Soumyadip Biswas</h1>
 <h3 align="center">A passionate Cybersecurity Enthusiast from India</h3>
-# 💫 About Me:
-I am a CTF player and at top 1% global ranking on TryHackMe.
-<img src="https://tryhackme-badges.s3.amazonaws.com/SamSepiol.png" alt="TryHackMe">
+I am a CTF player and at top 1% global ranking on TryHackMe.<img src="https://tryhackme-badges.s3.amazonaws.com/SamSepiol.png" alt="TryHackMe">
 <br><br>- 🔭 I’m currently working on **Malware Analysis and Triage**
 <br><br>- 🌱 I’m currently learning **Reverse Engineering, Malware Analysis, Binary Exploitation** 
 <br><br>- 💬 Ask me about **0's and 1's**
