@@ -1,57 +1,68 @@
 <h1 align="center">Soumyadip Biswas — MrB1sw4s</h1>
-<h3 align="center">Cybersecurity | Infra Hacker | Malware Analyst</h3>
+<h3 align="center">🖥️ Cybersecurity | Infra Hacker | Blue-Red Hybrid | Linux-Forged</h3>
 
 <p align="center">
   <img src="https://tryhackme-badges.s3.amazonaws.com/SamSepiol.png" alt="TryHackMe">
 </p>
 
-🔍 I dive deep into how systems break — and how to detect when they do.  
-I build self-hosted systems, analyze malware, and simulate SOC-level attacks & detections.
+> `Make noise with the work. Move in silence. Let logs speak louder than words.`
 
 ---
 
-- 🛠️ Currently building: `malware-write-execute-detector` – a real-world Sysmon-based behavioral detection lab  
-- 🧰 Rebuilding: A **portable router** with OpenWRT, VPN & DNS security  
-- ⚙️ Labs run in a custom [homelab](https://github.com/MrB1sw4s/Build-Homelab) — powered by relay-controlled Pi and KVM  
-- 📚 Reviewing: Malware Analysis & Triage (TCM Security)  
-- 🎯 Learning: YARA, Sigma, and real-time detection logic  
-- 📫 Reach me at: **soumyadip022@gmail.com**
+## 🦾 About Me
+
+- 🛠️ Currently building: `malware-write-execute-detector` — a behavioral detection lab using Sysmon + Sigma + YARA  
+- 📡 Maintainer of [Build-Homelab](https://github.com/MrB1sw4s/Build-Homelab) — private cloud, dark web stack, and browser-based attackbox  
+- 📶 Creating hardened [`Travel Router`](https://github.com/MrB1sw4s/Travel-Router-with-Pi) with OpenWRT, DNS protection, and VPN fallback  
+- 🎯 Learning: Real-world detection engineering, log forensics, low-level malware behavior
 
 ---
 
-## 🔒 Core Skillset
+## 💻 Tech Stack
 
-`Red Team` | `Blue Team` | `Malware Analysis` | `Self-Hosted Infra` | `Detection Engineering`  
-Linux · Sysmon · Sigma · YARA · KVM · OpenWRT · Bash · Python · Reverse Engineering (Basic)
+**Languages**  
+`Python` `C` `Bash` `YAML` `Regex`
 
----
+**Cybersecurity & Analysis**  
+`Sysmon` `YARA` `Sigma` `Suricata` `Wireshark` `Tor` `TryHackMe` `HackTheBox`  
+`Ghidra` (basic reversing) `Remnux` `PwnCollege` `Binwalk`
 
-## 🧠 Highlight Projects
+**Infrastructure & Networking**  
+`Linux (Ubuntu, Debian)` `KVM` `QEMU` `Virt-Manager` `OpenWRT` `MergerFS`  
+`Nextcloud` `NGINX` `Apache` `Cloudflare Tunnel` `Remote.it`
 
-- [`malware-write-execute-detector`](https://github.com/MrB1sw4s/malware-write-execute-detector) – Detect malware behavior through process logs
-- [`Build-Homelab`](https://github.com/MrB1sw4s/Build-Homelab) – Private cloud + dark web + attack VM — all remotely bootable
-- [`Travel-Router-with-Pi`](https://github.com/MrB1sw4s/Travel-Router-with-Pi) – Secure travel Wi-Fi router using Raspberry Pi
-
----
-
-## 🌐 Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/biswas0xb)
+**Other Tools**  
+`VS Code` `tmux` `Nmap` `tcpdump` `iptables/nftables` `Git`
 
 ---
 
-## 🖥️ Tech Stack
+## 🔎 Featured Projects
 
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D42029?style=flat&logo=apache&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat&logo=raspberry-pi&logoColor=white)
+🛡️ [`malware-write-execute-detector`](https://github.com/MrB1sw4s/malware-write-execute-detector)  
+> Detect malicious behavior (dropper + exec + persistence) using Sysmon logs & custom Sigma/YARA rules
+
+🧱 [`Build-Homelab`](https://github.com/MrB1sw4s/Build-Homelab)  
+> Headless lab with private cloud, .onion webserver, ParrotSec VM via VNC in browser, and Pi-powered relay booting
+
+🌐 [`Travel-Router-with-Pi`](https://github.com/MrB1sw4s/Travel-Router-with-Pi)  
+> Offline-flashable OpenWRT image with seamless dual-WiFi, future-proofed for VPN and DNS tunneling
 
 ---
 
-## 🧠 Quote I Work By
-> *“Make noise with the work. Move in silence. Let logs speak louder than words.”*
+## 🌐 Contact Me
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=MrB1sw4s&icon=0&color=0)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/biswas0xb)  
+📧 **soumyadip022@gmail.com**
+
+---
+
+## 🧠 Hacker Quote
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=terminal&color=0D1117&height=100&section=footer&text=I%20BUILD%20TO%20BREAK.%20I%20BREAK%20TO%20LEARN.&fontColor=00FF00" />
+</p>
+
