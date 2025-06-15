@@ -1,5 +1,5 @@
 <h1 align="center">Soumyadip Biswas — MrB1sw4s</h1>
-<h3 align="center">🖥️ Cybersecurity | Infra Hacker | Blue-Red Hybrid | Linux-Forged</h3>
+<h3 align="center">🖥️ Cybersecurity | Infra Hacker | Red-Blue Hybrid | Linux-Forged</h3>
 
 <p align="center">
   <img src="https://tryhackme-badges.s3.amazonaws.com/SamSepiol.png" alt="TryHackMe">
@@ -21,7 +21,7 @@
 ## 💻 Tech Stack
 
 **Languages**  
-`Python` `C` `Bash` `YAML` `Regex`
+`Python` `C` `Bash` `Assembly (x86/x64)` `Regex`
 
 **Cybersecurity & Analysis**  
 `Sysmon` `YARA` `Sigma` `Suricata` `Wireshark` `Tor` `TryHackMe` `HackTheBox`  
@@ -50,8 +50,7 @@
 ---
 
 ## 🌐 Contact Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/biswas0xb)  
+ 
 📧 **soumyadip022@gmail.com**
 
 ---
@@ -61,8 +60,4 @@
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=terminal&color=0D1117&height=100&section=footer&text=I%20BUILD%20TO%20BREAK.%20I%20BREAK%20TO%20LEARN.&fontColor=00FF00" />
-</p>
 
