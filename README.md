@@ -38,7 +38,7 @@
 
 ## 🔎 Featured Projects
 
-🛡️ [`malware-write-execute-detector`](https://github.com/MrB1sw4s/malware-write-execute-detector)  
+🛡️ [`malware-write-execute-detector`](https://github.com/MrB1sw4s/tracexec)  
 > Detect malicious behavior (dropper + exec + persistence) using Sysmon logs & custom Sigma/YARA rules
 
 🧱 [`Build-Homelab`](https://github.com/MrB1sw4s/Build-Homelab)  
