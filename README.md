@@ -11,7 +11,7 @@
 
 ## 🦾 About Me
 
-- 🛠️ Currently building: `malware-write-execute-detector` — a behavioral detection lab using Sysmon + Sigma + YARA  
+- 🛠️ Currently building: [`tracexec`](https://github.com/MrB1sw4s/tracexec) — a behavioral detection lab using Sysmon + Sigma + YARA  
 - 📡 Maintainer of [Build-Homelab](https://github.com/MrB1sw4s/Build-Homelab) — private cloud, dark web stack, and browser-based attackbox  
 - 📶 Creating hardened [`Travel Router`](https://github.com/MrB1sw4s/Travel-Router-with-Pi) with OpenWRT, DNS protection, and VPN fallback  
 - 🎯 Learning: Real-world detection engineering, log forensics, low-level malware behavior
@@ -38,7 +38,7 @@
 
 ## 🔎 Featured Projects
 
-🛡️ [`malware-write-execute-detector`](https://github.com/MrB1sw4s/tracexec)  
+🛡️ [`tracexec`](https://github.com/MrB1sw4s/tracexec)  
 > Detect malicious behavior (dropper + exec + persistence) using Sysmon logs & custom Sigma/YARA rules
 
 🧱 [`Build-Homelab`](https://github.com/MrB1sw4s/Build-Homelab)  
