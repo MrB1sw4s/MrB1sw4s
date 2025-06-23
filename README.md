@@ -29,7 +29,7 @@
 
 **Infrastructure & Networking**  
 `Linux (Ubuntu, Debian)` `KVM` `QEMU` `Virt-Manager` `OpenWRT` `MergerFS`  
-`Nextcloud` `NGINX` `Apache` `Cloudflare Tunnel` `Remote.it`
+`Nextcloud` `NGINX` `Apache` `Cloudflare Tunnel`
 
 **Other Tools**  
 `VS Code` `tmux` `Nmap` `tcpdump` `iptables/nftables` `Git`
